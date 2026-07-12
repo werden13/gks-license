@@ -1,5 +1,7 @@
 {
-  "revoked": [],
-  "issued_at": "2026-07-12T10:14:18.690689",
-  "signature": "jVIlAmyXbE49YCKH/uYaVOnxMjUncDxKCp5k/SspulB3q9d6q9uBYiSKRFPToPLMbMGCj5+KUeSD/75xvf1PAtBZd8pB4VHLyeH6XgHXemRKWpkzLRf34vfRSrIXx8QawesirYWwUx2zbYgwBRVEoVZiRGXGyMuozQ0XRkycHeAfgF+A2X3UCqNexB5aazrmIW3ShFljoFi4ficNcxZ/8mpkcsNd+irdPM1/ao4SsnfkdNA6PHLKKgV5x+uJKoqt2JvOWtRJeg9AYOpqukHvv1iy5YqBy8sy9l7CK7iv5SQWdtbi/FsZ4aA00b417WJSAhuYuCqfBBrwmX7uHHUuTQ=="
+  "revoked": [
+    "D9B4B3C3A18CED2D22986BB5027680B6"
+  ],
+  "issued_at": "2026-07-12T10:23:28.629007",
+  "signature": "aZI03bySV7pDfvj3AtNPSL2EfJ8dpnOEugmjqf1U+ZtsX+EMub0TQ8GpCmv7oCso8O5yyqgJF6OL4mAI9PRbfKaxkLmJpH7kwAbETv0+iGwuee5EgW4Y78lJDd/T+x2358/MuqEStJGu2FnE/sPUdCOqNIEIDugClLAR6hSt8rMae41prriZHYSJ46H7WhmReWoQ6Jv8IV4LYlhVM4n1UlJ4P3qm1ebm8Gu+xnCUfiD29jWIXlj/B6m2Glzsxhx7YLBxNuYlGsOvZ1IGk5rmpSEvhpDNUf0VHIQmQz5ET6DkrW2Xr5DhaSRcES7j6IlaGh8VJzlq+438b6Jr+YC0kg=="
 }
